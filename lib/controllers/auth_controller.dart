@@ -28,6 +28,7 @@ class AuthController extends BaseControler<User?>{
   var username = "";
   var email = "";
   var password = "";
+  
 
   @override
   void onInit() {
